@@ -65,7 +65,7 @@ class Color(DefaultColor):
     SSH_BG = faded_purple
     SSH_FG = light0
 
-    REPO_CLEAN_BG = faded_green
+    REPO_CLEAN_BG = light_gray
     REPO_CLEAN_FG = dark1
     REPO_DIRTY_BG = faded_orange
     REPO_DIRTY_FG = light0
@@ -96,7 +96,7 @@ class Color(DefaultColor):
     GIT_STASH_BG = neutral_yellow
     GIT_STASH_FG = dark0
 
-    VIRTUAL_ENV_BG = faded_green
+    VIRTUAL_ENV_BG = light_gray
     VIRTUAL_ENV_FG = light0
 
     BATTERY_NORMAL_BG = neutral_green
